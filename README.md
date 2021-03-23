@@ -1,1 +1,4 @@
 # Team-ja_jp
+ここはMinecraftの様々なModの日本語訳を行う人々のためのGithubです。
+この翻訳に参加するためには次のDiscordサーバーに入る必要があります：
+注意：Discordサーバーのメンバー以外のPull requestは無視されます。
