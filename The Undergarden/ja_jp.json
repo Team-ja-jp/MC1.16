@@ -345,11 +345,11 @@
   "subtitles.entity.stoneborn_step": "ストーンボーンが歩く",
   "subtitles.item.blisterbomb": "ブリスターボムが投げられる",
   "subtitles.item.undergarden_portal_activate": "アンダーガーデンのポータルがアクティブになる",
-  "tooltip.cloggrum_boots": "着ているとシントリンググーの移動速度低下の影響を受けない。",
-  "tooltip.cloggrum_sword": "高い攻撃力、低い耐久値。",
-  "tooltip.forgotten_sword": "ボスではないアンダーガーデンの生物に2倍のダメージを与える。",
-  "tooltip.froststeel_sword": "ターゲットを移動速度低下にする。",
-  "tooltip.slingshot": "深奥石の小石を弾薬として使う。",
-  "tooltip.utheric_axe": "友好的な動物に対して追加のダメージを与える。",
-  "tooltip.utheric_sword": "ロット族に対して10ダメージを与える。"
+  "tooltip.cloggrum_boots": "着ているとシントリンググーの移動速度低下の影響を受けない",
+  "tooltip.cloggrum_sword": "高い攻撃力、低い耐久値",
+  "tooltip.forgotten_sword": "ボスではないアンダーガーデンの生物に2倍のダメージを与える",
+  "tooltip.froststeel_sword": "ターゲットを移動速度低下にする",
+  "tooltip.slingshot": "深奥石の小石を弾薬として使う",
+  "tooltip.utheric_axe": "友好的な動物に対して追加のダメージを与える",
+  "tooltip.utheric_sword": "ロット族に対して10ダメージを与える"
 }
