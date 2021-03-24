@@ -1,0 +1,9 @@
+{
+    "configured.gui.search": "Search...",
+    "configured.gui.restore_defaults": "Restore Defaults",
+    "configured.gui.edit": "Edit",
+    "configured.gui.edit_value": "Edit Value",
+    "configured.gui.add_value": "Add...",
+    "configured.gui.reset": "Reset",
+    "configured.gui.remove": "Remove"
+}
