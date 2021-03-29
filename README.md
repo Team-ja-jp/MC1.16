@@ -10,3 +10,5 @@ You must be on the Discord server to participate in this translation. <br>
 Note: Pull requests that are not members of the Discord server will be ignored. <br>
 Link to Discord: <br>
 https://discord.gg/pYudhQvmxU
+
+※このブランチはリソースパック型に変更する前の履歴を見るために存在しています。
