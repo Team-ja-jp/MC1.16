@@ -15,7 +15,7 @@
 	"quark.gui.enchanting.left_click": "左クリックで選択",
 	"quark.gui.enchanting.right_click": "右クリックで回転",
 	"quark.gui.enchanting.merge": "クリックしてアップデート",
-	"quark.gui.enchanting.pending": "未決定のエンチャントを持っています",
+	"quark.gui.enchanting.pending": "未決定のエンチャントがあります",
 
 	"quark.gui.keygroup.misc": "Quarkのその他の設定",
 	"quark.gui.keygroup.inv": "Quarkのインベントリ",
@@ -798,7 +798,7 @@
 	"block.quark.framed_glass_pane": "フレーム入りガラス板",
 	"block.quark.iron_button": "鉄のボタン",
 	"block.quark.gold_button": "金のボタン",
-	"block.quark.obsidian_pressure_plate": "黒曜石の感圧版",
+	"block.quark.obsidian_pressure_plate": "黒曜石の感圧板",
 	"block.quark.nether_brick_fence_gate": "ネザーレンガのフェンスゲート",
 	"block.quark.midori_block": "ミドリブロック",
 	"block.quark.midori_pillar": "ミドリの柱",
