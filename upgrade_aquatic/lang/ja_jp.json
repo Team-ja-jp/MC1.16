@@ -463,7 +463,7 @@
   
   "item.upgrade_aquatic.nautilus_bucket": "オウムガイ入りバケツ",
   "item.upgrade_aquatic.pike_bucket": "パイク入りのバケツ",
-  "item.upgrade_aquatic.lionfish_bucket": "Bucket of Lionfish",
+  "item.upgrade_aquatic.lionfish_bucket": "ミノカサゴ入りバケツ",
   "item.upgrade_aquatic.perch_bucket": "Bucket of Perch",
   "item.upgrade_aquatic.squid_bucket": "Bucket of Squid",
   "item.upgrade_aquatic.jellyfish_bucket": "Bucket of Jellyfish",
@@ -472,7 +472,7 @@
   "item.upgrade_aquatic.drowned_villager_spawn_egg": "村人ドラウンドのスポーンエッグ",
   "item.upgrade_aquatic.nautilus_spawn_egg": "オウムガイのスポーンエッグ",
   "item.upgrade_aquatic.pike_spawn_egg": "パイクのスポーンエッグ",
-  "item.upgrade_aquatic.lionfish_spawn_egg": "Lionfish Spawn Egg",
+  "item.upgrade_aquatic.lionfish_spawn_egg": "ミノカサゴのスポーンエッグ",
   "item.upgrade_aquatic.perch_spawn_egg": "Perch Spawn Egg",
   "item.upgrade_aquatic.thrasher_spawn_egg": "Thrasher Spawn Egg",
   "item.upgrade_aquatic.great_thrasher_spawn_egg": "Great Thrasher Spawn Egg",
@@ -485,8 +485,8 @@
   "item.upgrade_aquatic.boiled_blue_pickerelweed": "Boiled Blue Pickerelweed",
   "item.upgrade_aquatic.pike": "生のパイク",
   "item.upgrade_aquatic.cooked_pike": "焼きパイク",
-  "item.upgrade_aquatic.lionfish": "Raw Lionfish",
-  "item.upgrade_aquatic.cooked_lionfish": "Cooked Lionfish",
+  "item.upgrade_aquatic.lionfish": "生のミノカサゴ",
+  "item.upgrade_aquatic.cooked_lionfish": "焼きミノカサゴ",
   "item.upgrade_aquatic.perch": "Raw Perch",
   "item.upgrade_aquatic.cooked_perch": "Cooked Perch",
 
@@ -540,7 +540,7 @@
   
   "entity.upgrade_aquatic.nautilus": "オウムガイ",
   "entity.upgrade_aquatic.pike": "パイク",
-  "entity.upgrade_aquatic.lionfish": "Lionfish",
+  "entity.upgrade_aquatic.lionfish": "ミノカサゴ",
   "entity.upgrade_aquatic.perch": "Perch",
   "entity.upgrade_aquatic.thrasher": "Thrasher",
   "entity.upgrade_aquatic.great_thrasher": "Great Thrasher",
