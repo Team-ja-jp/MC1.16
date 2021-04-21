@@ -1,4 +1,7 @@
-# Team-ja_jp
+
+![image](https://user-images.githubusercontent.com/63949302/115520714-6879c580-a2c5-11eb-91c0-19f38c2ce38b.png)
+
+
 ここはMinecraftの様々なModの日本語訳を行う人々のためのGithubです。<br>
 この翻訳に参加するためにはDiscordサーバーに入る必要があります。<br>
 注意：Discordサーバーのメンバー以外のPull requestは無視されます。<br>
