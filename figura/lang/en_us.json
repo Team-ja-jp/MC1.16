@@ -1,0 +1,105 @@
+{
+  "figura.mark": "△",
+  "figura.star": "⭐",
+
+  "gui.figura.trustmenutitle": "Figura Trust Menu",
+  "gui.figura.configtitle": "Figura Config Menu",
+  "gui.figura.menutitle": "Figura Menu",
+
+  "gui.figura.blocked": "Blocked",
+  "gui.figura.untrusted": "Untrusted",
+  "gui.figura.trusted": "Trusted",
+  "gui.figura.friend": "Friend",
+
+  "gui.figura.maxinitinstructions": "Max Init Instructions",
+  "gui.figura.maxtickinstructions": "Max Tick Instructions",
+  "gui.figura.maxrenderinstructions": "Max Render Instructions",
+  "gui.figura.maxcomplexity": "Max Complexity",
+  "gui.figura.allowvanillaedit": "Vanilla Avatar Changes",
+  "gui.figura.allownameplateedit": "Nameplate/Chat Name Changes",
+  "gui.figura.allowoffscreenrendering": "Offscreen Rendering",
+  "gui.figura.maxparticles": "Maximum Particles Per Second",
+  "gui.figura.maxsfx": "Maximum Sounds Per Second",
+
+  "gui.figura.dropconfirm": "Do you want to add the following models to Figura?",
+
+  "gui.script.none": "none",
+  "gui.script.ok": "OK",
+  "gui.script.error": "ERROR",
+
+  "gui.figura.button.trustmenu": "Trust Menu",
+  "gui.figura.button.configmenu": "Settings",
+  "gui.figura.button.back": "Back",
+  "gui.figura.button.deleteavatar": "Clear Avatar",
+  "gui.figura.button.clearall": "Clear ALL Avatars",
+  "gui.figura.button.help": "Help",
+  "gui.figura.button.openfolder": "Open Models Folder",
+  "gui.figura.button.resetallperm": "Reset ALL Permissions",
+  "gui.figura.button.resetperm": "Reset Permission",
+  "gui.figura.button.reloadavatar": "Reload avatar",
+  "gui.figura.button.search": "Search...",
+
+  "gui.figura.button.tooltip.upload": "Click to upload and show avatar in multiplayer",
+  "gui.figura.button.tooltip.reloadavatar": "Click to clear you avatar locally and redownload it",
+  "gui.figura.button.tooltip.deleteavatar": "Hold LEFT SHIFT and click to CLEAR YOUR AVATAR ONLINE",
+  "gui.figura.button.tooltip.deleteavatartwo": "Doing so will clear your avatar for everyone else, too",
+  "gui.figura.button.tooltip.resetperm": "Hold LEFT SHIFT and click to reset the selected permission for this user",
+  "gui.figura.button.tooltip.cantreset": "Cannot reset a Preset",
+  "gui.figura.button.tooltip.resetallperm": "Hold LEFT SHIFT and click to reset the permissions for this user",
+  "gui.figura.button.tooltip.clearcache": "Hold LEFT SHIFT and click to clear all loaded avatar data",
+
+  "gui.figura.deprecatedwarning" : "*The use of models in the root folder is deprecated, see the wiki for more info",
+  "gui.figura.complexity": "Complexity: %d",
+  "gui.figura.filesize": "File Size: %dkb",
+  "gui.figura.name": "Name: %d",
+
+  "gui.figura.config.nametag": "NameTag",
+  "gui.figura.config.misc": "Misc",
+  "gui.figura.config.dev": "Developer Settings",
+
+  
+  "gui.figura.config.previewnametag": "Show Preview NameTag",
+  "gui.figura.config.tooltip.previewnametag": "Displays your NameTag on the model preview screen",
+
+  "gui.figura.config.nametagmods": "Player NameTag customizations",
+  "gui.figura.config.tooltip.nametagmods": "Allows the names of players be customized",
+
+  "gui.figura.config.chatmods": "Chat customizations",
+  "gui.figura.config.tooltip.chatmods": "Allows the names of players in the chat be customized",
+
+  "gui.figura.config.listmods": "Player List customizations",
+  "gui.figura.config.tooltip.listmods": "Allows the names of players in the tab list be customized",
+
+  "gui.figura.config.usenewnetwork": "Use New Network",
+  "gui.figura.config.tooltip.usenewnetwork": "Toggles between using the new or old network for online models",
+
+  "gui.figura.config.uselocalserver": "Use Local Server",
+  "gui.figura.config.tooltip.uselocalserver": "Toggles between using a local server or the main online server for online models",
+
+  "gui.figura.config.nametagicon": "NameTag Mark as Icon",
+  "gui.figura.config.tooltip.nametagicon": "Display The Mark △ as an icon %d on the NameTag",
+
+  "gui.figura.config.ownnametag": "Render Own NameTag",
+  "gui.figura.config.tooltip.ownnametag": "Renders your own NameTag ingame",
+
+  "gui.figura.config.buttonlocation": "Figura Button Location",
+  "gui.figura.config.tooltip.buttonlocation": "Location where the Figura settings button should be",
+  "gui.figura.config.buttonlocation.topleft": "Top Left",
+  "gui.figura.config.buttonlocation.topright": "Top Right",
+  "gui.figura.config.buttonlocation.bottomleft": "Bottom Left",
+  "gui.figura.config.buttonlocation.bottomright": "Bottom Right",
+  "gui.figura.config.buttonlocation.icon": "Icon",
+
+  "gui.figura.config.scriptlog": "Script Log",
+  "gui.figura.config.tooltip.scriptlog": "Script debug log output location",
+  "gui.figura.config.scriptlog.console_chat": "Console/Chat",
+  "gui.figura.config.scriptlog.console": "Console",
+  "gui.figura.config.scriptlog.chat": "Chat",
+
+  "gui.figura.toast.upload.success.title": "Avatar Uploaded!",
+
+  "gui.figura.toast.upload.error.title": "Avatar Upload Failed!",
+  "gui.figura.toast.upload.error.many": "You have too many avatars!!",
+  "gui.figura.toast.upload.error.empty": "The avatar is empty!!",
+  "gui.figura.toast.upload.error.space": "Not enough space on server!!"
+}
