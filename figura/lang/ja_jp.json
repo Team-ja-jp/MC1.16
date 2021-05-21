@@ -77,7 +77,7 @@
   "gui.figura.config.tooltip.uselocalserver": "オンラインモデルでローカルサーバーを使うか、メインのオンラインサーバーを使うか切り替える",
 
   "gui.figura.config.nametagicon": "ネームタグのアイコン表示",
-  "gui.figura.config.tooltip.nametagicon": "△マークを %d アイコンで表示するか",
+  "gui.figura.config.tooltip.nametagicon": "Figura使用者の%dに△マークを表示するか",
 
   "gui.figura.config.ownnametag": "自身のネームタグを表示する",
   "gui.figura.config.tooltip.ownnametag": "ゲーム内で自分のネームタグを表示するか",
