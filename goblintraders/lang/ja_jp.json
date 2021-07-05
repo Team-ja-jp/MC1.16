@@ -1,0 +1,21 @@
+{
+    "entity.goblintraders.goblin_trader": "ゴブリン商人",
+    "entity.goblintraders.vein_goblin_trader": "ベインゴブリン商人",
+    "subtitle.goblintraders.goblin_trader.annoyed_grunt": "イライラ唸る",
+    "subtitle.goblintraders.goblin_trader.idle_grunt": "ぼんやり唸る",
+    "item.goblintraders.goblin_trader_spawn_egg": "ゴブリン商人のスポーンエッグ",
+    "item.goblintraders.vein_goblin_trader_spawn_egg": "ベインゴブリン商人のスポーンエッグ",
+    "stat.goblintraders.trade_with_goblin": "ゴブリンとの取引",
+    "mob_spawner.type.zombie": "ゾンビ",
+    "mob_spawner.type.skeleton": "スケルトン",
+    "mob_spawner.type.creeper": "クリーパー",
+    "item.minecraft.potion.effect.haste": "採掘速度上昇のポーション",
+    "item.minecraft.potion.effect.absorption": "衝撃吸収のポーション",
+    "item.minecraft.potion.effect.dolphins_grace": "イルカの好意のポーション",
+    "item.minecraft.splash_potion.effect.haste": "採掘速度上昇のスプラッシュポーション",
+    "item.minecraft.splash_potion.effect.absorption": "衝撃吸収のスプラッシュポーション",
+    "item.minecraft.splash_potion.effect.dolphins_grace": "イルカの好意のスプラッシュポーション",
+    "item.minecraft.lingering_potion.effect.haste": "採掘速度上昇の残留ポーション",
+    "item.minecraft.lingering_potion.effect.absorption": "衝撃吸収の残留ポーション",
+    "item.minecraft.lingering_potion.effect.dolphins_grace": "イルカの好意の残留ポーション"
+}
