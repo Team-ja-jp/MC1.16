@@ -183,6 +183,7 @@
   "gui.supplementaries.orange_trader.receive": "You receive:",
   "block.supplementaries.raked_gravel": "Raked Gravel",
   "message.supplementaries.command.dice": "Rolled D%1$d: %2$d",
+
   "item.supplementaries.key_chain": "キーホルダー",
   "block.supplementaries.skull_candle": "頭蓋骨のろうそく",
   "block.supplementaries.laser_block": "エンダービーマー",
