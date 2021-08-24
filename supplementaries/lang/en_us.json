@@ -214,12 +214,23 @@
   "message.supplementaries.speedometer": "%s Blocks/s",
   "message.supplementaries.potion.lingering": "Lingering",
   "message.supplementaries.potion.splash": "Splash",
+  "subtitle.supplementaries.music.pancake": "Pancake Music",
+  "item.supplementaries.pancake_disc.desc": "STiiX - Pancake Music",
+  "message.supplementaries.key.lockable": "Key Lockable",
+  "death.attack.supplementaries.amethyst_shard": "%1$s was sharded to death",
+  "death.attack.supplementaries.amethyst_shard.player": "%1$s was sharded to death by %2$s",
+  "item.supplementaries.amethyst_arrow": "Amethyst Arrow",
+  "block.supplementaries.present": "Present",
+
 
   "item.supplementaries.key_chain": "Key Chain",
   "block.supplementaries.skull_candle": "Skull Candle",
   "block.supplementaries.laser_block": "Ender Beamer",
 
 
+  "block.supplementaries.hanging_sign_bamboo": "Bamboo Hanging Sign",
+  "item.supplementaries.hanging_sign_bamboo": "Bamboo Hanging Sign",
+  "item.supplementaries.sign_post_bamboo": "Bamboo Sign Post",
 
   "block.supplementaries.hanging_sign_cherry_bop": "Cherry Hanging Sign",
   "block.supplementaries.hanging_sign_dead_bop": "Dead Hanging Sign",
