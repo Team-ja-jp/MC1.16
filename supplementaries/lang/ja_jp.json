@@ -173,12 +173,11 @@
   "block.supplementaries.planter_rich": "肥沃なプランター",
   "block.supplementaries.flower_box": "フラワーボックス",
   "block.supplementaries.brass_lantern": "真鍮のランタン",
-  "entity.supplementaries.orange_trader": "オレンジ商人",
   "block.supplementaries.goblet": "ゴブレット",
   "block.supplementaries.flag": "フラッグ",
   "gui.supplementaries.orange_trader.trade": "トレードオファー",
-  "gui.supplementaries.orange_trader.get": "私が手に入れるもの:",
-  "gui.supplementaries.orange_trader.receive": "あなたが手に入れるもの:",
+  "gui.supplementaries.orange_trader.get": "わたすもの:",
+  "gui.supplementaries.orange_trader.receive": "もらうもの:",
   "block.supplementaries.raked_gravel": "かきならした砂利",
   "message.supplementaries.command.dice": "Rolled D%1$d: %2$d",
   "death.attack.supplementaries.xp_extracting": "%1$s wasn't so experienced after all",
@@ -226,6 +225,7 @@
   "message.supplementaries.timber_frame": "立方体ブロックを入れられます",
   "block.supplementaries.wild_flax": "野生の亜麻",
   "item.supplementaries.slingshot": "パチンコ",
+
 
   "item.supplementaries.key_chain": "キーホルダー",
   "block.supplementaries.skull_candle": "頭蓋骨のろうそく",
