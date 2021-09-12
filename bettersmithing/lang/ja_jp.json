@@ -1,7 +1,7 @@
 {
 	"itemGroup.bettersmithing_tab": "Better Smithing",
 	
-	"item.bettersmithing.kaolin_clay_ball": "カオリン粘土玉",
+	"item.bettersmithing.kaolin_clay_ball": "白陶土玉",
 	"item.bettersmithing.firebrick": "耐火レンガ",
 	"item.bettersmithing.wooden_hammer": "木のハンマー",
 	"item.bettersmithing.stone_hammer": "石のハンマー",
@@ -20,7 +20,7 @@
 	"item.bettersmithing.big_netherite_plate": "大きなネザライトのプレート",
 	
 	"block.bettersmithing.firebricks": "耐火レンガ",
-	"block.bettersmithing.kaolin_clay": "カオリン粘土",
+	"block.bettersmithing.kaolin_clay": "白陶土",
 	"block.bettersmithing.forge": "鍛造炉",
 	
 	"heating_stage.cold": "*冷たい*",
