@@ -1,0 +1,35 @@
+{
+	"itemGroup.bettersmithing_tab": "Better Smithing",
+	
+	"item.bettersmithing.kaolin_clay_ball": "カオリン粘土玉",
+	"item.bettersmithing.firebrick": "耐火レンガ",
+	"item.bettersmithing.wooden_hammer": "木のハンマー",
+	"item.bettersmithing.stone_hammer": "石のハンマー",
+	"item.bettersmithing.iron_hammer": "鉄のハンマー",
+	"item.bettersmithing.golden_hammer": "金のハンマー",
+	"item.bettersmithing.diamond_hammer": "ダイヤモンドのハンマー",
+	"item.bettersmithing.netherite_hammer": "ネザライトのハンマー",
+	"item.bettersmithing.double_iron_ingot": "二重鉄インゴット",
+	"item.bettersmithing.double_gold_ingot": "二重金インゴット",
+	"item.bettersmithing.double_netherite_ingot": "二重ネザライトインゴット",
+	"item.bettersmithing.iron_plate": "鉄のプレート",
+	"item.bettersmithing.gold_plate": "金のプレート",
+	"item.bettersmithing.netherite_plate": "ネザライトのプレート",
+	"item.bettersmithing.big_iron_plate": "大きな鉄のプレート",
+	"item.bettersmithing.big_gold_plate": "大きな金のプレート",
+	"item.bettersmithing.big_netherite_plate": "大きなネザライトのプレート",
+	
+	"block.bettersmithing.firebricks": "耐火レンガ",
+	"block.bettersmithing.kaolin_clay": "カオリン粘土",
+	"block.bettersmithing.forge": "鍛造炉",
+	
+	"heating_stage.cold": "*冷たい*",
+	"heating_stage.slightly_warm": "*少し暖かい*",
+	"heating_stage.warm": "*暖かい*",
+	"heating_stage.very_warm": "*とても暖かい*",
+	"heating_stage.hot": "*熱い*",
+	"heating_stage.very_hot": "*とても熱い*",
+	"heating_stage.overheated": "*オーバーヒート*",
+	
+	"enchantment.bettersmithing.forge_master": "鍛冶特攻"
+}
