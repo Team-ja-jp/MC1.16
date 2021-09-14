@@ -22,6 +22,8 @@
 	"block.bettersmithing.firebricks": "Firebricks",
 	"block.bettersmithing.kaolin_clay": "Kaolin Clay",
 	"block.bettersmithing.forge": "Forge",
+	"block.bettersmithing.closed_forge": "Closed Forge",
+	"block.bettersmithing.nether_forge": "Nether Forge",
 	
 	"heating_stage.cold": "*Cold*",
 	"heating_stage.slightly_warm": "*Slightly Warm*",
@@ -31,5 +33,8 @@
 	"heating_stage.very_hot": "*Very Hot*",
 	"heating_stage.overheated": "*Overheated*",
 	
-	"enchantment.bettersmithing.forge_master": "Forge Master"
+	"enchantment.bettersmithing.forge_master": "Forge Master",
+	
+	"screen.bettersmithing.better_smithing.is_cold": "Not hot enough",
+	"screen.bettersmithing.better_smithing.is_overheated": "Overheated"
 }
