@@ -21,9 +21,9 @@
 	
 	"block.bettersmithing.firebricks": "耐火レンガ",
 	"block.bettersmithing.kaolin_clay": "白陶土",
-	"block.bettersmithing.forge": "加熱台",
-	"block.bettersmithing.closed_forge": "加熱炉",
-	"block.bettersmithing.nether_forge": "ネザー加熱炉",
+	"block.bettersmithing.forge": "火床",
+	"block.bettersmithing.closed_forge": "鍛造炉",
+	"block.bettersmithing.nether_forge": "ネザー鍛造炉",
 
 	"heating_stage.cold": "*冷たい*",
 	"heating_stage.slightly_warm": "*少し暖かい*",
