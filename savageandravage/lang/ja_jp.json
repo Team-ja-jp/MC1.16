@@ -28,8 +28,8 @@
   
   "item.savageandravage.skeleton_villager_spawn_egg": "スケルトン村人のスポーンエッグ",
   "item.savageandravage.griefer_spawn_egg": "グリーファーのスポーンエッグ",
-  "item.savageandravage.executioner_spawn_egg": "死刑執行人のスポーンエッグ",
-  "item.savageandravage.iceologer_spawn_egg": "氷の邪悪な村人のスポーンエッグ",
+  "item.savageandravage.executioner_spawn_egg": "エクスキューショナーのスポーンエッグ",
+  "item.savageandravage.iceologer_spawn_egg": "アイスオロジャーのスポーンエッグ",
   
   "entity.savageandravage.skeleton_villager": "スケルトン村人",
   "entity.savageandravage.griefer": "グリーファー",
@@ -39,8 +39,8 @@
   "entity.savageandravage.rune_prison": "ルーンプリズン",
   "entity.savageandravage.burning_banner": "燃えている旗",
   "entity.savageandravage.mischief_arrow": "いたずらの矢",
-  "entity.savageandravage.executioner": "死刑執行人",
-  "entity.savageandravage.iceologer": "氷の邪悪な村人",
+  "entity.savageandravage.executioner": "エクスキューショナー",
+  "entity.savageandravage.iceologer": "アイスオロジャー",
   "entity.savageandravage.ice_chunk": "氷の塊",
   "entity.savageandravage.ice_cloud": "氷の雲",
   
@@ -62,11 +62,11 @@
   "subtitles.savageandravage.entity.creepie.fuse": "クリーピーがシューッという音を立てる",
   "subtitles.savageandravage.entity.creepie.convert": "クリーピーが変換する",
   "subtitles.savageandravage.entity.creepie.grow": "クリーピーが成長する",
-  "subtitles.savageandravage.entity.iceologer.ambient": "氷の邪悪な村人がささやく",
-  "subtitles.savageandravage.entity.iceologer.hurt": "氷の邪悪な村人がダメージを受ける",
-  "subtitles.savageandravage.entity.iceologer.death": "氷の邪悪な村人が死ぬ",
-  "subtitles.savageandravage.entity.iceologer.celebrate": "氷の邪悪な村人が喜ぶ",
-  "subtitles.savageandravage.entity.iceologer.cast_spell": "氷の邪悪な村人が呪文を唱える",
+  "subtitles.savageandravage.entity.iceologer.ambient": "アイスオロジャーがささやく",
+  "subtitles.savageandravage.entity.iceologer.hurt": "アイスオロジャーがダメージを受ける",
+  "subtitles.savageandravage.entity.iceologer.death": "アイスオロジャーが死ぬ",
+  "subtitles.savageandravage.entity.iceologer.celebrate": "アイスオロジャーが喜ぶ",
+  "subtitles.savageandravage.entity.iceologer.cast_spell": "アイスオロジャーが呪文を唱える",
   "subtitles.savageandravage.entity.player.cast_spell": "プレイヤーが呪文を唱える",
   "subtitles.savageandravage.entity.creeper_spores.throw": "クリーパーの胞子が飛ぶ",
   "subtitles.savageandravage.block.runed_gloomy_tiles.activate": "ルーンの刻まれた薄暗いタイルがアクティブになる"
