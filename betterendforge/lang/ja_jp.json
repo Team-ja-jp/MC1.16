@@ -12,12 +12,13 @@
         "book.betterendforge.subtitle": "ジ・エンドで生きる",
         "message.betterendforge.patchouli_missing": "ガイドブックを読むにはPatchouliをインストールしてください。",
     
-    "itemGroup.betterendforge": "Better End",
+    	"itemGroup.betterendforge": "Better End",
     
-    "container.betterendforge.end_stone_smelter": "エンドストーンの製錬炉",
+    	"container.betterendforge.end_stone_smelter": "エンドストーンの製錬炉",
     
-    "message.betterendforge.anvil_damage": "§cダメージ",
+    	"message.betterendforge.anvil_damage": "§cダメージ",
     
+	
         "block.betterendforge.lumecorn": "Lumecorn",
         "block.betterendforge.lumecorn_seed": "Lumecorn Seed",
         "item.betterendforge.lumecorn_rod": "Lumecorn Rod",
