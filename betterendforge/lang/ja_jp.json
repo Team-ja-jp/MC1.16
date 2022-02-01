@@ -6,33 +6,33 @@
         "gui.jei.category.infusion.time": "時間: %s",
         "gui.jei.category.anvil_smithing": "金床での鍛冶",
     "gui.jei.category.anvil_smithing.damage": "合計ダメージ: %s",
-    
+
     "item.betterendforge.guidebook": "間抜けの為のジ・エンド",
         "book.betterendforge.landing": "ジ・エンドの極端な状況下においてのサバイバルに関する短いガイド。",
         "book.betterendforge.subtitle": "ジ・エンドで生きる",
         "message.betterendforge.patchouli_missing": "ガイドブックを読むにはPatchouliをインストールしてください。",
-    
+
     	"itemGroup.betterendforge": "Better End",
-    
+
     	"container.betterendforge.end_stone_smelter": "エンドストーンの製錬炉",
-    
+
     	"message.betterendforge.anvil_damage": "§cダメージ",
-    
-	
-        "block.betterendforge.lumecorn": "Lumecorn",
-        "block.betterendforge.lumecorn_seed": "Lumecorn Seed",
-        "item.betterendforge.lumecorn_rod": "Lumecorn Rod",
-        "block.betterendforge.blooming_cooksonia": "Blooming Cooksonia",    
-    "block.betterendforge.salteago": "Salteago",
-        "block.betterendforge.vaiolush_fern": "Vaiolush Fern",
-        "block.betterendforge.fracturn": "Fracturn",
-        "biome.betterendforge.dry_shrubland": "Dry Shrubland",
+
+
+        "block.betterendforge.lumecorn": "ルメコーン",
+        "block.betterendforge.lumecorn_seed": "ルメコーンの種",
+        "item.betterendforge.lumecorn_rod": "ルメコーンロッド",
+        "block.betterendforge.blooming_cooksonia": "開花したクックソニア",
+    "block.betterendforge.salteago": "サルテアゴ",
+        "block.betterendforge.vaiolush_fern": "ヴァイオラッシュのシダ",
+        "block.betterendforge.fracturn": "フラクタン",
+        "biome.betterendforge.dry_shrubland": "乾燥した低木砂漠",
         "biome.betterendforge.neon_oasis": "ネオンのオアシス",
         "block.betterendforge.neon_cactus": "ネオンのサボテン",
         "block.betterendforge.neon_cactus_block": "ネオンのサボテンブロック",
         "block.betterendforge.neon_cactus_slab": "ネオンのサボテンのハートストーン",
         "block.betterendforge.neon_cactus_stairs": "ネオンのサボテンの階段",
-       
+
         "item.betterendforge.music_disc_strange_and_alien": "§bレコード§r",
         "item.betterendforge.music_disc_strange_and_alien.desc": "§5Firel§r - §fStrange And Alien§r",
         "item.betterendforge.music_disc_grasping_at_stars": "§bレコード§r",
@@ -41,13 +41,13 @@
         "item.betterendforge.music_disc_endseeker.desc": "§5Firel§r - §fEndseeker§r",
         "item.betterendforge.music_disc_eo_dracona": "§bレコード§r",
         "item.betterendforge.music_disc_eo_dracona.desc": "§5Firel§r - §fEo Dracona§r",
-        
-        "block.betterendforge.rutiscus": "Rutiscus",
-        "block.betterendforge.rutiscus_path": "Rutiscus Path",
-        "biome.betterendforge.lantern_woods": "Lantern Woods",
-        "block.betterendforge.filalux": "Filalux",
-        "block.betterendforge.filalux_lantern": "Filalux Lantern",
-        "block.betterendforge.filalux_wings": "Filalux Wings",
+
+        "block.betterendforge.rutiscus": "ルティスカス",
+        "block.betterendforge.rutiscus_path": "ルティスカスの道",
+        "biome.betterendforge.lantern_woods": "ランタンの木々",
+        "block.betterendforge.filalux": "フィラルクス",
+        "block.betterendforge.filalux_lantern": "フィラルクスのランタン",
+        "block.betterendforge.filalux_wings": "フィラルクスウィング",
         "block.betterendforge.lucernia_bark": "ルセニアの樹皮",
         "block.betterendforge.lucernia_barrel": "ルセニアの樽",
         "block.betterendforge.lucernia_bookshelf": "ルセニアの本棚",
@@ -71,61 +71,61 @@
         "block.betterendforge.lucernia_stripped_bark": "樹皮を剥いだルセニアの木の樹皮",
         "block.betterendforge.lucernia_stripped_log": "樹皮を剥いだルセニアのの木",
         "block.betterendforge.lucernia_trapdoor": "ルセニアのトラップドア",
-        "block.betterendforge.flamaea": "Flamaea",
-        "block.betterendforge.aeridium": "Aeridium",
-        "block.betterendforge.lamellarium": "Lamellarium",
-        "block.betterendforge.bolux_mushroom": "Bolux Mushroom",
-        "block.betterendforge.aurant_polypore": "Aurant 多孔菌",
-        "block.betterendforge.pond_anemone": "Pond Anemone",
-        "block.betterendforge.ruscus": "Ruscus",
-        "block.betterendforge.lutebus": "Lutebus",
-        "block.betterendforge.orango": "Orango",
-        
-           
-        "block.betterendforge.sangnum": "Sangnum",
-        "block.betterendforge.sangnum_path": "Sangnum Path",
+        "block.betterendforge.flamaea": "フラマエラ",
+        "block.betterendforge.aeridium": "エーリディウム",
+        "block.betterendforge.lamellarium": "ラメラリウム",
+        "block.betterendforge.bolux_mushroom": "ボルクスキノコ",
+        "block.betterendforge.aurant_polypore": "オーラント多孔菌",
+        "block.betterendforge.pond_anemone": "ポンドアネモネ",
+        "block.betterendforge.ruscus": "ラスカス",
+        "block.betterendforge.lutebus": "ルーテバス",
+        "block.betterendforge.orango": "オランゴ",
+
+
+        "block.betterendforge.sangnum": "サンナム",
+        "block.betterendforge.sangnum_path": "サンナムの道",
         "block.betterendforge.mossy_obsidian": "苔むした黒曜石",
-        "block.betterendforge.amaranita_cap": "Amaranitaの冠",
-        "block.betterendforge.amaranita_fur": "Amaranitaのフュール",
-        "block.betterendforge.amaranita_hymenophore": "Amaranitaの子実体",
-        "block.betterendforge.amaranita_hyphae": "Amaranita Hyphae",
-        "block.betterendforge.amaranita_lantern": "Amaranita Lantern",
-        "block.betterendforge.amaranita_stem": "Amaranita Stem",
-        "block.betterendforge.large_amaranita_mushroom": "Large Amaranita Mushroom",
-        "block.betterendforge.small_amaranita_mushroom": "Small Amaranita Mushroom",
-        "block.betterendforge.globulagus": "Globulagus",
-        "block.betterendforge.clawfern": "Clawfern",
+        "block.betterendforge.amaranita_cap": "アマラニタの冠",
+        "block.betterendforge.amaranita_fur": "アマラニタのフュール",
+        "block.betterendforge.amaranita_hymenophore": "アマラニタの子実体",
+        "block.betterendforge.amaranita_hyphae": "アマラニタの菌糸",
+        "block.betterendforge.amaranita_lantern": "アマラニタのランタン",
+        "block.betterendforge.amaranita_stem": "アマラニタの柄",
+        "block.betterendforge.large_amaranita_mushroom": "大きなアマラニタのキノコ",
+        "block.betterendforge.small_amaranita_mushroom": "小さなアマラニタのキノコ",
+        "block.betterendforge.globulagus": "グロブラグス",
+        "block.betterendforge.clawfern": "ツメシダ",
         "block.betterendforge.dragon_bone_block": "ドラゴンの骨ブロック",
         "block.betterendforge.dragon_bone_slab": "ドラゴンの骨ブロックのハーフブロック",
         "block.betterendforge.dragon_bone_stairs": "ドラゴンの骨ブロックの階段",
-        
+
         "block.betterendforge.mossy_dragon_bone": "苔むしたドラゴンの骨ブロック",
-        "biome.betterendforge.dragon_graveyards": "Dragon Graveyards",
-        "biome.betterendforge.crystal_mountains": "Crystal Mountains",
+        "biome.betterendforge.dragon_graveyards": "ドラゴンの墓地",
+        "biome.betterendforge.crystal_mountains": "クリスタルの山",
     "biome.betterendforge.foggy_mushroomland": "霧のかかったキノコの土地",
-        "biome.betterendforge.dust_wastelands": "Dust Wastelands",
-        "biome.betterendforge.chorus_forest": "Chorus Forest",
-        "biome.betterendforge.megalake": "Megalake",
-        "biome.betterendforge.megalake_grove": "Megalake Grove",
-        "biome.betterendforge.painted_mountains": "Painted Mountains",
+        "biome.betterendforge.dust_wastelands": "埃の荒れ地",
+        "biome.betterendforge.chorus_forest": "コーラスの森",
+        "biome.betterendforge.megalake": "巨大湖",
+        "biome.betterendforge.megalake_grove": "巨大湖の茂み",
+        "biome.betterendforge.painted_mountains": "描かれた山",
         "biome.betterendforge.shadow_forest": "影の森",
-        "biome.betterendforge.blossoming_spires": "Blossoming Spires",
+        "biome.betterendforge.blossoming_spires": "満開の尖塔",
         "biome.betterendforge.amber_land": "琥珀色の地",
         "biome.betterendforge.sulphur_springs": "硫黄の温泉",
-        "biome.betterendforge.ice_starfield": "Ice Starfield",
-        "biome.betterendforge.umbrella_jungle": "Umbrella Jungle",
-    "biome.betterendforge.glowing_grasslands": "Glowing Grasslands",
+        "biome.betterendforge.ice_starfield": "氷の星型の地",
+        "biome.betterendforge.umbrella_jungle": "傘ノ木のジャングル",
+    "biome.betterendforge.glowing_grasslands": "輝く緑地",
         "biome.betterendforge.empty_aurora_cave": "Empty Aurora Cave",
         "biome.betterendforge.empty_end_cave": "Empty End Cave",
         "biome.betterendforge.empty_smaragdant_cave": "Empty Smaragdant Cave",
         "biome.betterendforge.lush_aurora_cave": "Lush Aurora Cave",
         "biome.betterendforge.lush_smaragdant_cave": "Lush Smaragdant Cave",
-    
-        "block.betterendforge.silk_moth_nest": "Silk Moth Nest",
-        "entity.betterendforge.silk_moth": "Silk Moth",
-        "item.betterendforge.spawn_egg_silk_moth": "Silk Mothのスポーンエッグ",
-        "item.betterendforge.silk_fiber": "Silk Fiber",
-    
+
+        "block.betterendforge.silk_moth_nest": "カイコガの巣",
+        "entity.betterendforge.silk_moth": "カイコガ",
+        "item.betterendforge.spawn_egg_silk_moth": "カイコガのスポーンエッグ",
+        "item.betterendforge.silk_fiber": "絹",
+
         "block.betterendforge.iron_bulb_lantern": "鉄のバルブランタン",
         "block.betterendforge.iron_bulb_lantern_black": "黒色の鉄のバルブランタン",
         "block.betterendforge.iron_bulb_lantern_blue": "青色の鉄のバルブランタン",
@@ -143,30 +143,30 @@
         "block.betterendforge.iron_bulb_lantern_red": "赤色の鉄のバルブランタン",
         "block.betterendforge.iron_bulb_lantern_white": "白色の鉄のバルブランタン",
         "block.betterendforge.iron_bulb_lantern_yellow": "黄色の鉄のバルブランタン",
-    
+
         "entity.betterendforge.dragonfly": "トンボ",
         "item.betterendforge.spawn_egg_dragonfly": "トンボのスポーンエッグ",
-    
+
         "entity.betterendforge.end_slime": "エンドスライム",
         "item.betterendforge.spawn_egg_end_slime": "エンドスライムのスポーンエッグ",
-    
+
         "entity.betterendforge.end_fish": "エンドフィッシュ",
         "item.betterendforge.spawn_egg_end_fish": "エンドフィッシュのスポーンエッグ",
-    
+
         "entity.betterendforge.shadow_walker": "シャドーウォーカー",
         "item.betterendforge.spawn_egg_shadow_walker": "シャドーウォーカーのスポーンエッグ",
-    
+
         "entity.betterendforge.cubozoa": "ハコクラゲ",
         "item.betterendforge.spawn_egg_cubozoa": "ハコクラゲのスポーンエッグ",
-    
+
         "item.betterendforge.gelatine": "Gelatine",
         "item.betterendforge.sweet_berry_jelly": "Sweet Berry Jelly",
         "item.betterendforge.shadow_berry_jelly": "Shadow Berry Jelly",
-    
+
         "block.betterendforge.respawn_obelisk": "リスポーンオベリスク",
         "message.betterendforge.set_spawn": "§b§lあなたのスポーンポイントはここに設定されました",
         "message.betterendforge.fail_spawn": "§c§lスポーンポイントを設定するためには琥珀ジェムを6個持っている必要があります",
-    
+
         "block.betterendforge.dragon_tree_composter": "竜ノ木のコンポスター",
         "block.betterendforge.end_lotus_composter": "エンドのハスのコンポスター",
         "block.betterendforge.helix_tree_composter": "ヘリックスの木のコンポスター",
@@ -176,7 +176,7 @@
         "block.betterendforge.tenanea_composter": "テナネアのコンポスター",
         "block.betterendforge.umbrella_tree_composter": "傘ノ木のコンポスター",
         "block.betterendforge.jellyshroom_composter": "ジェリーシュルームのコンポスター",
-    
+
         "block.betterendforge.andesite_lantern": "安山岩のランタン",
         "block.betterendforge.blackstone_lantern": "ブラックストーン",
         "block.betterendforge.diorite_lantern": "閃緑岩のランタン",
@@ -186,7 +186,7 @@
         "block.betterendforge.end_stone_lantern": "エンドストーンのランタン",
         "block.betterendforge.gold_chandelier": "金のシャンデリア",
         "block.betterendforge.iron_chandelier": "鉄のシャンデリア",
-    
+
         "block.betterendforge.end_mycelium": "エンドの菌糸",
         "block.betterendforge.end_moss": "エンドの苔",
         "block.betterendforge.endstone_dust": "エンドストーンダスト",
@@ -197,7 +197,7 @@
         "block.betterendforge.pink_moss": "桃色の苔",
         "block.betterendforge.amber_moss": "琥珀の苔",
         "block.betterendforge.jungle_moss": "ジャングルの苔",
-    
+
         "block.betterendforge.end_mycelium_path": "エンドの菌糸の道",
         "block.betterendforge.end_moss_path": "エンドの苔の道",
         "block.betterendforge.chorus_nylium_path": "コーラスナイリウムの道",
@@ -207,7 +207,7 @@
         "block.betterendforge.pink_moss_path": "桃色の苔の道",
         "block.betterendforge.amber_moss_path": "琥珀の苔の道",
         "block.betterendforge.jungle_moss_path": "ジャングルの苔の道",
-    
+
         "block.betterendforge.helix_tree_bark": "ヘリックスの木の樹皮",
         "block.betterendforge.helix_tree_barrel": "ヘリックスの木の樽",
         "block.betterendforge.helix_tree_bookshelf": "ヘリックスの木の本棚",
@@ -228,7 +228,7 @@
         "block.betterendforge.helix_tree_stairs": "ヘリックスの木の階段",
         "block.betterendforge.helix_tree_stripped_bark": "樹皮を剥いだヘリックスの木の樹皮",
         "block.betterendforge.helix_tree_stripped_log": "樹皮を剥いだヘリックスの木の原木",
-        "block.betterendforge.helix_tree_trapdoor": "ヘリックスの木のトラップドア",    
+        "block.betterendforge.helix_tree_trapdoor": "ヘリックスの木のトラップドア",
     "block.betterendforge.lanceleaf": "Lanceleaf",
         "block.betterendforge.lanceleaf_seed": "Lanceleaf Seed",
         "block.betterendforge.glowing_pillar_leaves": "Glowing Pillarの葉",
@@ -236,7 +236,7 @@
         "block.betterendforge.glowing_pillar_roots": "Glowing Pillar Roots",
         "block.betterendforge.glowing_pillar_seed": "Glowing Pillar Seed",
 "block.betterendforge.bulb_moss": "バルブモス",
-    
+
         "item.betterendforge.eternal_crystal": "エターナルクリスタル",
         "item.betterendforge.crystal_shards": "クリスタルの破片",
         "item.betterendforge.ender_shard": "エンダーの破片",
@@ -271,7 +271,7 @@
         "item.betterendforge.leather_stripe": "Leather Stripe",
         "item.betterendforge.leather_wrapped_stick": "Leather Wrapped Stick",
         "item.betterendforge.glowing_bulb": "Glowing Bulb",
-    
+
         "enchantment.betterendforge.end_veil.desc": "Wearing an helmet enchanted with this prevents endermen from aggroing when you look at them",
         "effect.betterendforge.end_veil": "End Veil",
         "enchantment.betterendforge.end_veil": "End Veil",
@@ -283,7 +283,7 @@
         "item.minecraft.lingering_potion.effect.long_end_veil": "Lingering Potion of End Veil",
         "item.minecraft.tipped_arrow.effect.end_veil": "Arrow of End Veil",
         "item.minecraft.tipped_arrow.effect.long_end_veil": "Arrow of End Veil",
-    
+
         "block.betterendforge.aurora_crystal": "オーロラクリスタル",
         "block.betterendforge.ender_ore": "エンダー鉱石",
         "block.betterendforge.aeternium_block": "エーテルニウムブロック",
@@ -294,32 +294,32 @@
         "block.betterendforge.eternal_pedestal": "エターナルの台座",
         "block.betterendforge.flavolite_runed_eternal": "エターナルのルーンフラボライト",
         "block.betterendforge.end_stone_furnace": "エンドストーンのかまど",
-        "block.betterendforge.aeternium_anvil": "エーテルニウムの金床",   
-    "block.betterendforge.missing_tile": "欠落タイル",    
+        "block.betterendforge.aeternium_anvil": "エーテルニウムの金床",
+    "block.betterendforge.missing_tile": "欠落タイル",
     "block.betterendforge.end_stone_stalactite": "エンドストーンの鍾乳石",
         "block.betterendforge.end_stone_stalactite_cavemoss": "洞窟の苔のエンドストーンの鍾乳石",
         "block.betterendforge.smaragdant_crystal": "スマラグダントクリスタル",
         "block.betterendforge.smaragdant_crystal_shard": "スマラグダントクリスタルの破片",
         "block.betterendforge.rubinea": "ルビニア",
-    
+
     "block.betterendforge.andesite_pedestal": "安山岩の台座",
         "block.betterendforge.diorite_pedestal": "閃緑岩の台座",
         "block.betterendforge.granite_pedestal": "花崗岩の台座",
         "block.betterendforge.purpur_pedestal": "プルプァの台座",
         "block.betterendforge.quartz_pedestal": "クォーツの台座",
         "block.betterendforge.infusion_pedestal": "注入の台座",
-        
+
     "block.betterendforge.umbrella_moss": "傘ノ苔",
         "block.betterendforge.umbrella_moss_tall": "背の高い傘ノ苔",
         "block.betterendforge.creeping_moss": "這う苔",
         "block.betterendforge.chorus_grass": "コーラスの草",
         "block.betterendforge.cave_grass": "洞窟の草",
         "block.betterendforge.crystal_grass": "クリスタルの草",
-        "block.betterendforge.shadow_plant": "影の植物",  
-    "block.betterendforge.bushy_grass": "茂った草",    
+        "block.betterendforge.shadow_plant": "影の植物",
+    "block.betterendforge.bushy_grass": "茂った草",
     "block.betterendforge.amber_grass": "琥珀の草",
     "block.betterendforge.jungle_grass": "ジャングルの草",
-    
+
         "block.betterendforge.blue_vine_seed": "青色のツタの種",
         "block.betterendforge.blue_vine": "青色のツタ",
         "block.betterendforge.blue_vine_lantern": "青色のツタのランタン",
@@ -362,18 +362,18 @@
         "block.betterendforge.amber_root_seed": "琥珀の根の種",
         "block.betterendforge.chorus_mushroom_seed": "コーラスムーシュルームの種",
         "block.betterendforge.pearlberry_seed": "パールベリーの種",
-    
+
         "block.betterendforge.brimstone": "硫黄",
         "block.betterendforge.sulphur_crystal": "硫黄の結晶",
         "block.betterendforge.hydrothermal_vent": "水熱噴出口",
         "block.betterendforge.tube_worm": "チューブワーム",
         "block.betterendforge.vent_bubble_column": "気泡噴出塔",
-    
+
         "block.betterendforge.dense_snow": "高密度雪",
         "block.betterendforge.emerald_ice": "エメラルド色の氷",
         "block.betterendforge.dense_emerald_ice": "高密度なエメラルド色の氷",
         "block.betterendforge.ancient_emerald_ice": "古代のエメラルド色の氷",
-    
+
         "block.betterendforge.hydralux_sapling": "ハイドラルクスの苗木",
         "block.betterendforge.hydralux_petal_block": "ハイドラルクスの花びらブロック",
         "block.betterendforge.hydralux_petal_block_black": "黒色の花びらブロック",
@@ -394,10 +394,10 @@
         "block.betterendforge.hydralux_petal_block_yellow": "黄色の花びらブロック",
         "item.betterendforge.hydralux_petal": "ハイドラルクスの花びら",
         "item.betterendforge.enchanted_petal": "エンチャントされた花びら",
-    
+
         "item.betterendforge.end_lily_leaf": "エンドのスイレンの葉",
         "item.betterendforge.end_lily_leaf_dried": "乾いたエンドのスイレンの葉",
-    
+
         "item.betterendforge.shadow_berry_cooked": "焼きシャドウベリー",
         "item.betterendforge.shadow_berry_raw": "シャドウベリー",
         "item.betterendforge.umbrella_cluster_juice": "傘ノ木のクラスターのジュース",
@@ -405,17 +405,17 @@
         "item.betterendforge.amber_root_raw": "生の琥珀の根",
         "item.betterendforge.chorus_mushroom_cooked": "焼きコーラスムーシュルーム",
         "item.betterendforge.chorus_mushroom_raw": "生のコーラスムーシュルーム",
-    
+
         "item.betterendforge.bucket_end_fish": "エンドフィッシュ入りバケツ",
         "item.betterendforge.bucket_cubozoa": "ハコクラゲ入りバケツ",
         "item.betterendforge.end_fish_cooked": "焼きエンドフィッシュ",
         "item.betterendforge.end_fish_raw": "エンドフィッシュ",
-    
+
         "block.betterendforge.amber_block": "琥珀ブロック",
         "block.betterendforge.amber_ore": "琥珀鉱石",
         "item.betterendforge.amber_gem": "琥珀ジェム",
         "item.betterendforge.raw_amber": "生の琥珀",
-    
+
     "block.betterendforge.mossy_glowshroom_sapling": "苔むしたグロウシュルームの苗木",
         "block.betterendforge.mossy_glowshroom_cap": "苔むしたグロウシュルームの冠",
         "block.betterendforge.mossy_glowshroom_fur": "苔むしたグロウシュルームのフュール",
@@ -439,7 +439,7 @@
         "block.betterendforge.mossy_glowshroom_stripped_log": "樹皮を剥いだ苔むしたグロウシュルームの原木",
         "block.betterendforge.mossy_glowshroom_trapdoor": "苔むしたグロウシュルームのトラップドア",
         "block.betterendforge.mossy_glowshroom_bookshelf": "苔むしたグロウシュルームのの本棚",
-        
+
     "block.betterendforge.end_lotus_bark": "エンドのハスの樹皮",
         "block.betterendforge.end_lotus_barrel": "エンドのハスの樽",
         "block.betterendforge.end_lotus_button": "エンドのハスのボタン",
@@ -459,7 +459,7 @@
         "block.betterendforge.end_lotus_stripped_log": "樹皮を剥いだエンドのハスの原木",
         "block.betterendforge.end_lotus_trapdoor": "エンドのハスのトラップドア",
         "block.betterendforge.end_lotus_bookshelf": "エンドのハスの本棚",
-    
+
         "block.betterendforge.lacugrove_leaves": "ラクグローブの葉",
         "block.betterendforge.lacugrove_sapling": "ラクグローブの苗木",
         "block.betterendforge.lacugrove_bark": "ラクグローブの樹皮",
@@ -481,7 +481,7 @@
         "block.betterendforge.lacugrove_stripped_log": "樹皮を剥いだラクグローブの原木",
         "block.betterendforge.lacugrove_trapdoor": "ラクグローブのトラップドア",
         "block.betterendforge.lacugrove_bookshelf": "ラクグローブの本棚",
-    
+
         "block.betterendforge.pythadendron_leaves": "パイサデンドロンの葉",
         "block.betterendforge.pythadendron_sapling": "パイサデンドロンの苗木",
         "block.betterendforge.pythadendron_bark": "パイサデンドロンの樹皮",
@@ -503,7 +503,7 @@
         "block.betterendforge.pythadendron_stripped_log": "樹皮を剥いだパイサデンドロンの原木",
         "block.betterendforge.pythadendron_trapdoor": "パイサデンドロンのトラップドア",
         "block.betterendforge.pythadendron_bookshelf": "パイサデンドロンの本棚",
-    
+
         "block.betterendforge.dragon_tree_leaves": "竜ノ木の葉",
         "block.betterendforge.dragon_tree_sapling": "竜ノ木の苗木",
     "block.betterendforge.dragon_tree_bark": "竜ノ木の樹皮",
@@ -525,7 +525,7 @@
         "block.betterendforge.dragon_tree_stripped_log": "樹皮を剥いだ竜ノ木の原木",
         "block.betterendforge.dragon_tree_trapdoor": "竜ノ木のトラップドア",
         "block.betterendforge.dragon_tree_bookshelf": "竜ノ木の本棚",
-    
+
         "block.betterendforge.tenanea_flowers": "テナネアの花",
         "block.betterendforge.tenanea_outer_leaves": "テナネアの外側の葉",
         "block.betterendforge.tenanea_bark": "テナネアの樹皮",
@@ -549,14 +549,14 @@
         "block.betterendforge.tenanea_stripped_bark": "樹皮を剥いだテナネアの樹皮",
         "block.betterendforge.tenanea_stripped_log": "樹皮を剥いだテナネアの原木",
         "block.betterendforge.tenanea_trapdoor": "テナネアのトラップドア",
-    
+
         "block.betterendforge.umbrella_tree_sapling": "傘ノ木の苗木",
         "block.betterendforge.umbrella_tree_bark": "傘ノ木の樹皮",
         "block.betterendforge.umbrella_tree_barrel": "傘ノ木の樽",
         "block.betterendforge.umbrella_tree_bookshelf": "傘ノ木の本棚",
         "block.betterendforge.umbrella_tree_button": "傘ノ木のボタン",
         "block.betterendforge.umbrella_tree_chest": "傘ノ木のチェスト",
-		"block.betterendforge.umbrella_tree_composter": "傘ノ木のコンポスター",    
+		"block.betterendforge.umbrella_tree_composter": "傘ノ木のコンポスター",
         "block.betterendforge.umbrella_tree_crafting_table": "傘ノ木の作業台",
         "block.betterendforge.umbrella_tree_door": "傘ノ木のドア",
         "block.betterendforge.umbrella_tree_fence": "傘ノ木のフェンス",
@@ -572,14 +572,14 @@
         "block.betterendforge.umbrella_tree_stripped_log": "樹皮を剥いだ傘ノ木の原木",
         "block.betterendforge.umbrella_tree_trapdoor": "傘ノ木のトラップドア",
         "block.betterendforge.umbrella_tree_membrane": "傘ノ木の膜",
-    
+
         "block.betterendforge.jellyshroom_bark": "ジェリーシュルームの樹皮",
         "block.betterendforge.jellyshroom_barrel": "ジェリーシュルームの樽",
         "block.betterendforge.jellyshroom_bookshelf": "ジェリーシュルームの本棚",
         "block.betterendforge.jellyshroom_button": "ジェリーシュルームのボタン",
         "block.betterendforge.jellyshroom_cap_purple": "紫色のジェリーシュルームキャップ",
         "block.betterendforge.jellyshroom_chest": "ジェリーシュルームのチェスト",
-	    "block.betterendforge.jellyshroom_composter": "ジェリーシュルームのコンポスター",    
+	    "block.betterendforge.jellyshroom_composter": "ジェリーシュルームのコンポスター",
         "block.betterendforge.jellyshroom_crafting_table": "ジェリーシュルームの作業台",
         "block.betterendforge.jellyshroom_door": "ジェリーシュルームのドア",
         "block.betterendforge.jellyshroom_fence": "ジェリーシュルームのフェンス",
@@ -594,7 +594,7 @@
         "block.betterendforge.jellyshroom_stripped_bark": "樹皮を剥いだジェリーシュルームの樹皮",
         "block.betterendforge.jellyshroom_stripped_log": "樹皮を剥いだジェリーシュルームの原木",
         "block.betterendforge.jellyshroom_trapdoor": "ジェリーシュルームのトラップドア",
-    
+
         "block.betterendforge.violecite": "バイオレサイト",
         "block.betterendforge.violecite_bricks": "バイオレサイトレンガ",
         "block.betterendforge.violecite_bricks_slab": "バイオレサイトレンガのハーフブロック",
@@ -611,7 +611,7 @@
         "block.betterendforge.violecite_pedestal": "バイオレサイトの台座",
         "block.betterendforge.violecite_lantern": "バイオレサイトのランタン",
         "block.betterendforge.violecite_furnace": "バイオレサイトのかまど",
-    
+
         "block.betterendforge.flavolite": "フラボライト",
         "block.betterendforge.flavolite_bricks": "フラボライトレンガ",
         "block.betterendforge.flavolite_bricks_slab": "フラボライトレンガのハーフブロック",
@@ -628,7 +628,7 @@
         "block.betterendforge.flavolite_pedestal": "フラボライトの台座",
         "block.betterendforge.flavolite_lantern": "フラボライトのランタン",
         "block.betterendforge.flavolite_furnace": "フラボライトのかまど",
-    
+
         "block.betterendforge.sulphuric_rock": "硫黄岩",
         "block.betterendforge.sulphuric_rock_bricks": "硫黄岩レンガ",
         "block.betterendforge.sulphuric_rock_bricks_slab": "硫黄岩レンガのハーフブロック",
@@ -645,7 +645,7 @@
         "block.betterendforge.sulphuric_rock_tiles": "硫黄岩のタイル",
         "block.betterendforge.sulphuric_rock_wall": "硫黄岩の塀",
         "block.betterendforge.sulphuric_rock_furnace": "硫黄岩のかまど",
-    
+
         "block.betterendforge.thallasium_ore": "タラジウム鉱石",
         "block.betterendforge.thallasium_block": "タラジウムブロック",
         "item.betterendforge.thallasium_ingot": "タラジウムインゴット",
@@ -693,7 +693,7 @@
         "block.betterendforge.thallasium_bulb_lantern_red": "赤色のタラジウムのバルブランタン",
         "block.betterendforge.thallasium_bulb_lantern_white": "白色のタラジウムのバルブランタン",
         "block.betterendforge.thallasium_bulb_lantern_yellow": "黄色のタラジウムのバルブランタン",
-    
+
         "block.betterendforge.terminite_block": "ターミナイトブロック",
         "item.betterendforge.terminite_ingot": "ターミナイトインゴット",
         "item.betterendforge.terminite_nugget": "ターミナイト塊",
