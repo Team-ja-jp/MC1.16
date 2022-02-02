@@ -34,11 +34,11 @@
     "string.explorerscompass.local_modifications": "ローカル変更",
     "string.explorerscompass.underground_structures": "地下",
     "string.explorerscompass.surface_structures": "地表",
-    "string.explorerscompass.strongholds": "Strongholds",
+    "string.explorerscompass.strongholds": "要塞",
     "string.explorerscompass.underground_ores": "鉱石",
     "string.explorerscompass.underground_decoration": "地下",
     "string.explorerscompass.vegetal_decoration": "植生",
-    "string.explorerscompass.top_layer_modification": "地面ののレイヤー",
+    "string.explorerscompass.top_layer_modification": "地面のレイヤー",
 
     "_comment": "STRINGS - STRUCTURES",
     "structure.minecraft.bastion_remnant": "砦の遺跡",
