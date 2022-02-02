@@ -2,7 +2,7 @@
   "itemGroup.firstaid": "First Aid",
   "item.firstaid.bandage": "包帯",
   "item.firstaid.plaster": "絆創膏",
-  "item.firstaid.morphine": "モルヒネ",
+  "item.firstaid.morphine": "鎮痛薬",
 
   "firstaid.gui.head": "頭",
   "firstaid.gui.left_arm": "左腕",
@@ -13,7 +13,7 @@
   "firstaid.gui.right_leg": "右脚",
   "firstaid.gui.right_foot": "右足",
   "firstaid.gui.apply_hint": "アイテムを適用する場所を選んでください",
-  "firstaid.gui.morphine_left": "モルヒネを使用(残り%s)",
+  "firstaid.gui.morphine_left": "鎮痛薬を使用(残り%s)",
   "firstaid.gui.active_item": "現在有効",
   "firstaid.gui.no_sleep_heal": "寝ても体力が回復しません",
   "firstaid.gui.sleep_heal_amount": "寝ることで最大%s%%の体力が回復します",
@@ -29,7 +29,7 @@
   "firstaid.tutorial.line1": "すでにお気づきかもしれませんが、バニラの体力バーはありません。このシステムに置き換えられました。",
   "firstaid.tutorial.line2": "体のそれぞれの部分に固有の体力があります。なのでもし高所から落下したら…",
   "firstaid.tutorial.line3": "片足にダメージが入ります。これにより、ダメージを受けた足が遅くなったり、腕にダメージを受けた場合は採掘速度低下など、いくつかのデバフを受ける可能性があります。",
-  "firstaid.tutorial.line4": "これらの効果はモルヒネを服用するか、傷を回復することで回避できます。",
+  "firstaid.tutorial.line4": "これらの効果は鎮痛薬を服用するか、傷を回復することで回避できます。",
   "firstaid.tutorial.line5": "傷は包帯や絆創膏で治療することができます（アイテムを右クリック）。",
   "firstaid.tutorial.sleephint": "ベッドで寝ることで、体が自動的に少しだけ再生します。",
   "firstaid.tutorial.line6": "重要な器官の体力（頭または体）がゼロになると、プレイヤーが死ぬ可能性があります。",
@@ -92,7 +92,7 @@
 
   "subtitles.debuff.heartbeat": "心臓の鼓動",
   "firstaid.gui.next_heal": "次の回復：%s秒後",
-  "effect.firstaid.morphine": "モルヒネ",
+  "effect.firstaid.morphine": "鎮痛",
   "firstaid.specificarmor": " +%s 場所の防具",
   "firstaid.specifictoughness": " +%s 場所の防具 頑丈さ"
 }
