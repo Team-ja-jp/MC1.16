@@ -1,5 +1,5 @@
 
-![image](https://user-images.githubusercontent.com/63949302/115520714-6879c580-a2c5-11eb-91c0-19f38c2ce38b.png)
+![Team-ha_jp_info](https://user-images.githubusercontent.com/63949302/162625940-c5cda82f-9263-4f3b-83c4-a263b385e882.jpg)
 
 
 ここはMinecraftの様々なModの日本語訳を行う人々のためのGithubです。<br>
