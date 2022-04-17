@@ -4918,7 +4918,7 @@
     "item.aoa3.wizards_staff.desc.1": "短時間の間使用者の物理的な能力を強化する",
     "item.aoa3.wood_giant_spawn_egg": "ウッド・ジャイアントのスポーンエッグ",
     "item.aoa3.worn_book": "古本",
-    "item.aoa3.worn_book.landing": "This journal entry appears to have been by the $(thing)Corrupted Traveller$() itself. Given the book's condition however, it may have been written quite a long time ago..",
+    "item.aoa3.worn_book.landing": "$(thing)堕落した旅人$()自身のものと見られる日記。しかし、この本の状態からすると、かなり昔に書かれたものである可能性がある。。",
     "item.aoa3.wrecker": "レッカー",
     "item.aoa3.wrecker.desc.1": "おなかがすいている時にリコイルを軽減する",
     "item.aoa3.xxeus_spawn_egg": "シェウスのスポーンエッグ",
