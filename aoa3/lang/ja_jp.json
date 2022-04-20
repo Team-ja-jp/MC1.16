@@ -2080,7 +2080,7 @@
     "death.attack.gun": "%1$sは射殺された",
     "death.attack.gun.item": "%1$sは%2$sに%3$sで射殺された",
     "death.attack.gun.player": "%1$sは%2$sに射殺された",
-  　"death.attack.hauling": "%1$sは釣り竿に引き離された",
+    "death.attack.hauling": "%1$sは釣り竿に引き離された",
     "death.attack.selfharm": "%1$sは自分の反動で昇天した",
     "death.attack.skeletanium": "%1$sはスケルタニウムに遭遇した",
     "death.attack.suffocation": "%1$sは窒息した",
