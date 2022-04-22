@@ -1,0 +1,5 @@
+{
+  "name": "Interfaces",
+  "description": "$(aoa) には、いくつかの重要 $(thing)インターフェイス$() が付属しています。 These $(thing)インターフェイス$() は、ゲーム内の重要な情報にアクセスしたり、他では見られない便利な機能にアクセスすることができます。",
+  "icon": "minecraft:map"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Faunamancy",
+  "description": "$(thing)Faunamancy$() クリーチャーを復活させるスキルです。クリーチャーを罠にかけ、そのエッセンスを抽出し、全く無害なものに利用します。$(br2)$(thing)Faunamancy$() のレベルを上げると、より多くのクリーチャーとアビリティにアクセスでき、クリーチャーエッセンスを抽出する能力も向上する。",
+  "icon": "aoa3:textures/gui/aoaskill/faunamancy.png",
+  "parent": "aoa3:skills"
+}

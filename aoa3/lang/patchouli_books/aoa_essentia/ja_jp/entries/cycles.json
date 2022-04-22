@@ -1,0 +1,17 @@
+{
+  "name": "Cycles",
+  "category": "aoa3:skills",
+  "icon": "minecraft:totem_of_undying",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(thing)スキルサイクル$() は $(aoa)  $(thing)skill$()をレベル１にリセットし、XPのブーストを得ることができます。",
+      "title": "Skill Cycling"
+    },
+    {
+      "type": "patchouli:text",
+      "text": " $(thing)スキル$()レベルが100になると、 '$(thing)サイクル$()が使用できるようになります。$(br)これを行うと、現在のXPは0に、レベルは1にリセットされますが、 $(thing)サイクル$()のカウンターが増加します。 $(thing)サイクル$() カウンターが増加するごとに、そのスキルの獲得XPが大幅に増加し、より多くのブーストが得られます。"
+    }
+  ],
+  "sortnum": 2
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Description",
+  "category": "aoa3:abyss",
+  "icon": "",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "The $(thing)Abyss$() は、不快な恐怖に満ちた、暗く血の色の世界です。",
+      "title": "Description"
+    }
+  ],
+  "advancement": "aoa3:abyss/root",
+  "sortnum": 0
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Bestiary Tab",
+  "category": "aoa3:advent_gui",
+  "icon": "minecraft:zombie_head",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "anchor": "bestiary_tab",
+      "text": "$(thing)図鑑 タブ$()モンスターコレクターにはたまらない場所です。 生物を倒すたび図鑑に登録され、 そのステータスなどの情報を見ることができます。すべて集めてみましょう!",
+      "title": "Bestiary Tab"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "このタブには、これまでに倒した生物がリスト化され、倒した数が表示されます。$(br2)項目をクリックすると拡大表示され、その生物の分類やステータスなど、より詳細な情報が表示されます。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(thing)図鑑$() にはたくさんの生物が登録でき、特定の生物を探したい場合は、タブ上部の検索バーで絞り込みが可能です。"
+    }
+  ],
+  "sortnum": 2
+}

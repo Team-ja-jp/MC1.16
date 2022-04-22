@@ -1,0 +1,18 @@
+{
+  "name": "Ores",
+  "category": "aoa3:abyss",
+  "icon": "",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "地上の恐怖から逃れるため$(thing)Abyss$(), の地下に身を隠すのであれば、血のように赤い鉱物の存在が、いくらかあなたを安心させるでしょう。",
+      "title": "Ores"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(thing)Bloodstone Ore$() ツルハシでの採掘が可能で、 $(thing)Bloodstones$() と経験値をドロップします。.$(br2)$(thing)Bloodstones$() は深淵の地下ならほぼどこでも見つけることができ、新しい武器や防具など、様々な用途に使用できます。"
+    }
+  ],
+  "advancement": "aoa3:abyss/root",
+  "sortnum": 2
+}

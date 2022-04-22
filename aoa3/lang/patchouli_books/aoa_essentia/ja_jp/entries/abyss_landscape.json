@@ -1,0 +1,14 @@
+{
+  "name": "Landscape",
+  "category": "aoa3:abyss",
+  "icon": "",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "The $(thing)Abyssal Plains$() は危険な丘陵地で、触手のような不気味な葉や暗い木、有毒な植物が茂り、中には目が生えていたり、あるいは外れていたりするものもあります。この土地は永遠に暗闇に包まれています。",
+      "title": "Landscape"
+    }
+  ],
+  "advancement": "aoa3:abyss/root",
+  "sortnum": 1
+}

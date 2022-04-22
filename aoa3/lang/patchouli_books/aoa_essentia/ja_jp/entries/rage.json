@@ -1,0 +1,24 @@
+{
+  "name": "Rage",
+  "category": "aoa3:resources",
+  "icon": "aoa3:patchouli/images/icons/rage_icon.png",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "anchor": "rage",
+      "text": "$(thing)Rage$() は身体に自然に蓄積されるリソースの一種です。$(br)ダメージを受けると蓄積され、限界地に達するまで増加していきます。$(br2)$(thing)Rage$() は時間経過で消耗し、最終的にゼロになります。",
+      "title": "Rage"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l:aoa3:vulcanes#vulcanes)バルカン$(/l) は $(thing)rage$() を動力として使用します。"
+    },
+    {
+      "type": "patchouli:link",
+      "text": "さらに詳しい情報は $(aoa) 公式Wikiを参照してください。",
+      "title": "AoA Wiki",
+      "url": "https://adventofascension.fandom.com/wiki/Rage",
+      "link_text": "Official Wiki"
+    }
+  ]
+}

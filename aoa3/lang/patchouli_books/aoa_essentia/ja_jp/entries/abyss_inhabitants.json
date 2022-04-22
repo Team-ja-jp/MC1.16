@@ -1,0 +1,103 @@
+{
+  "name": "Inhabitants",
+  "category": "aoa3:abyss",
+  "icon": "",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "暗闇の中には、多くの飢えた生物が潜んでいます。それぞれに長所と能力があるので、探索時には注意しましょう。",
+      "title": "Mobs"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "text": "the $(thing)Abyss$() に生息する敵性Mobは、 $(thing)Nightmare Flakes$()をドロップします、この素材はほとんどのAbyssのクラフトと注入に使用されますので、忘れずに拾いましょう。",
+      "title": "Nightmare Flakes",
+      "item": "aoa3:nightmare_flakes"
+    },
+    {
+      "type": "patchouli:entity",
+      "text": "$(thing)Anemia$() については、公式Wikiを参照してください。 $(l:https://adventofascension.fandom.com/wiki/Anemia)Official Wiki$(/l).",
+      "entity": "aoa3:anemia",
+      "scale": 0.692,
+      "offset": 1.2
+    },
+    {
+      "type": "patchouli:entity",
+      "text": " $(thing)Apparition$() については、公式Wikiを参照してください。 $(l:https://adventofascension.fandom.com/wiki/Apparition)Official Wiki$(/l).",
+      "entity": "aoa3:apparition"
+    },
+    {
+      "type": "patchouli:entity",
+      "text": " $(thing)Bloodsucker$() については、公式Wikiを参照してください。 $(l:https://adventofascension.fandom.com/wiki/Bloodsucker)Official Wiki$(/l).",
+      "entity": "aoa3:bloodsucker",
+      "scale": 0.52
+    },
+    {
+      "type": "patchouli:entity",
+      "text": " $(thing)Distorter$() については、公式Wikiを参照してください。 $(l:https://adventofascension.fandom.com/wiki/Distorter)Official Wiki$(/l).",
+      "entity": "aoa3:distorter"
+    },
+    {
+      "type": "patchouli:entity",
+      "text": " $(thing)Fiend$() については、公式Wikiを参照してください。 $(l:https://adventofascension.fandom.com/wiki/Fiend)Official Wiki$(/l).",
+      "entity": "aoa3:fiend"
+    },
+    {
+      "type": "patchouli:entity",
+      "text": " $(thing)Flesh Eater$() については、公式Wikiを参照してください。 $(l:https://adventofascension.fandom.com/wiki/Flesh_Eater)Official Wiki$(/l).",
+      "entity": "aoa3:flesh_eater"
+    },
+    {
+      "type": "patchouli:entity",
+      "text": " $(thing)Jawe$() については、公式Wikiを参照してください。 $(l:https://adventofascension.fandom.com/wiki/Jawe)Official Wiki$(/l).",
+      "entity": "aoa3:jawe",
+      "scale": 0.625
+    },
+    {
+      "type": "patchouli:entity",
+      "text": " $(thing)Occulent$() については、公式Wikiを参照してください。 $(l:https://adventofascension.fandom.com/wiki/Occulent)Official Wiki$(/l).",
+      "entity": "aoa3:occulent"
+    },
+    {
+      "type": "patchouli:entity",
+      "text": " $(thing)Web Reaper$() については、公式Wikiを参照してください。 $(l:https://adventofascension.fandom.com/wiki/Web_Reaper)Official Wiki$(/l).",
+      "entity": "aoa3:web_reaper",
+      "scale": 0.802
+    },
+    {
+      "type": "patchouli:text",
+      "text": "敵対的な土地である $(thing)Abyss$() にはあまり魅力がありませんが、それでも友好的なな住人は存在します。",
+      "title": "NPCs"
+    },
+    {
+      "type": "patchouli:entity",
+      "text": " $(thing)Lottoman$() については、公式Wikiを参照してください。 $(l:https://adventofascension.fandom.com/wiki/Abyssal_Lottoman)Official Wiki$(/l).",
+      "entity": "aoa3:lottoman",
+      "scale": 0.875
+    },
+    {
+      "type": "patchouli:entity",
+      "text": "$(thing)Undead Herald$() については、公式Wikiを参照してください。 $(l:https://adventofascension.fandom.com/wiki/Abyssal_Lottoman)Official Wiki$(/l).",
+      "entity": "aoa3:undead_herald"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "暗闇の真の恐怖である the $(thing)Abyss$() には、２体の恐ろしいモンスターが住んでおり、次なる犠牲者を求めています。",
+      "title": "Bosses"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "text": " $(thing)Web Reaper$() から入手できるこの暗い本は、 $(l:aoa3:abyss_structures#shadowlord_platform)Shadowlord Platform$(/l)の$(thing)Shadowlord Altar$()にて$(thing)Shadowlord$()を召喚するために使用します。",
+      "title": "Book of Shadows",
+      "item": "aoa3:book_of_shadows"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "text": "A mysterious eye harvested from the red-eyed tentacles around the $(thing)Abyss$(), it summons the $(thing)Elusive$() if used on an $(thing)Illusion Altar$() at a $(l:aoa3:abyss_structures#illusion_tree)Illusion Tree$(/l).",
+      "title": "Staring Eye",
+      "item": "aoa3:staring_eye"
+    }
+  ],
+  "advancement": "aoa3:abyss/root",
+  "sortnum": 4
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Mauls",
+  "category": "aoa3:weapons",
+  "icon": "aoa3:horizon_maul",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "anchor": "mauls",
+      "text": " $(l:aoa3:swords#swords)剣$(/l)で敵を彼方に吹き飛ばしたい、そう思ったことはありませんか？$(br) $(thing)モール$() oにはそれが可能です！ $(l:aoa3:greatblades#greatblades)グレートブレード$(/l) より長いリーチ、強力なノックバックを誇る一方、ダメージ出力は低めです。",
+      "title": "Mauls"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "基本的に、 $(thing)モール$() は危険な敵遠ざけたり、近づきすぎた敵を素早く処理することを目的としています。$(br2)剣のように高い $(t:Damage Per Second)DPS$(/t) はありませんが、強力なノックバックを発生させるので、強力な攻撃を持つ敵に対し使用するのがベストです。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "text": "$(thing)モール$() は $(l:aoa3:greatblades#greatblades)グレートブレード$(/l) にゴルフクラブの力をプラスしたようなものです。",
+      "title": "A Maul",
+      "item": "aoa3:electron_maul"
+    },
+    {
+      "type": "patchouli:link",
+      "text": " $(thing)mauls$() についてのさらに詳しい情報は、 $(aoa) 公式Wikiを参照してください。 $(thing)official wiki$().",
+      "title": "Read More",
+      "url": "https://adventofascension.fandom.com/wiki/Mauls",
+      "link_text": "AoA Wiki"
+    }
+  ],
+  "sortnum": 2
+}
