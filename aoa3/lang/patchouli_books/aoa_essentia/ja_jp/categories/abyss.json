@@ -1,6 +1,6 @@
 {
-  "name": "Abyss",
-  "description": "Abyss は Tier-2 であり、 $(thing)ネザー$() の次にアクセスすることができます。",
+  "name": "アビス",
+  "description": "アビスはティア2のディメンションで、$(thing)ネザー$()の次にアクセスすることができます。",
   "icon": "aoa3:abyss_realmstone",
   "parent": "aoa3:worlds"
 }

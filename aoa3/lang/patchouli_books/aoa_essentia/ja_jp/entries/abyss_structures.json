@@ -1,5 +1,5 @@
 {
-  "name": "Structures",
+  "name": "建物",
   "category": "aoa3:abyss",
   "icon": "",
   "pages": [
@@ -11,8 +11,8 @@
     {
       "type": "patchouli:image",
       "anchor": "shadowlord_platform",
-      "text": " $(thing)Shadowlord$()を召喚するための祭壇です。 $(l:https://adventofascension.fandom.com/wiki/Shadowlord_Platform)Read more$(/l)",
-      "title": "Shadowlord Platform",
+      "text": " $(thing)シャドーロード$()を召喚するための祭壇です。 $(l:https://adventofascension.fandom.com/wiki/Shadowlord_Platform)Read more$(/l)",
+      "title": "シャドーロードプラットフォーム",
       "images": [
         "aoa3:patchouli/images/structures/shadowlord_platform.png"
       ]
@@ -20,32 +20,32 @@
     {
       "type": "patchouli:image",
       "anchor": "illusion_tree",
-      "text": "奈落の底にそびえ立つ、 $(thing)Elusive$() を召喚するための祭壇です。 $(l:https://adventofascension.fandom.com/wiki/Illusion_Tree)Read More$(/l)",
-      "title": "Illusion Tree",
+      "text": "奈落の底にそびえ立つ、$(thing)エルーシブ$()を召喚するための祭壇です。 $(l:https://adventofascension.fandom.com/wiki/Illusion_Tree)Read More$(/l)",
+      "title": "幻想の木",
       "images": [
         "aoa3:patchouli/images/structures/illusion_tree.png"
       ]
     },
     {
       "type": "patchouli:image",
-      "text": "唯一知られている、 $(thing)Jawe$()の住処です。 $(l:https://adventofascension.fandom.com/wiki/Jawe Hut)Read More$(/l)",
-      "title": "Jawe Hut",
+      "text": "唯一知られている、$(thing)ジャーウ$()の住処です。 $(l:https://adventofascension.fandom.com/wiki/Jawe Hut)Read More$(/l)",
+      "title": "ジャーウの小屋",
       "images": [
         "aoa3:patchouli/images/structures/jawe_hut.png"
       ]
     },
     {
       "type": "patchouli:image",
-      "text": "$(thing)Flesh Temples$() 恐ろしい生物である $(thing)Flesh Eater$()によって守られています。 $(l:https://adventofascension.fandom.com/wiki/Flesh_Temple)Read More$(/l)",
-      "title": "Flesh Temple",
+      "text": "$(thing)食肉寺$()は恐ろしい生物である$(thing)フレッシュイーター$()によって守られています。 $(l:https://adventofascension.fandom.com/wiki/Flesh_Temple)Read More$(/l)",
+      "title": "食肉寺",
       "images": [
         "aoa3:patchouli/images/structures/flesh_temple.png"
       ]
     },
     {
       "type": "patchouli:image",
-      "text": "深淵の地表にある隙間は、 $(thing)Eye Bulbs$()の住処とする洞穴の入り口です。 $(l:https://adventofascension.fandom.com/wiki/Abyssal_Eye_Grotto)Read More$(/l)",
-      "title": "Abyssal Eye Grotto",
+      "text": "深淵の地表にある隙間は、$(thing)目球根$()の住処とする洞穴の入り口です。 $(l:https://adventofascension.fandom.com/wiki/Abyssal_Eye_Grotto)Read More$(/l)",
+      "title": "アビスのアイグロット",
       "images": [
         "aoa3:patchouli/images/structures/abyssal_eye_grotto.png"
       ]

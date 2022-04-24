@@ -1,13 +1,13 @@
 {
-  "name": "Swords",
+  "name": "剣",
   "category": "aoa3:weapons",
   "icon": "aoa3:limonite_sword",
   "pages": [
     {
       "type": "patchouli:text",
       "anchor": "swords",
-      "text": "$(thing)剣$() は最も基本的な武器ですが、最も汎用性の高い武器でもあります。$(br)そのため、最初に手にする武器種となる可能性が高いですが、 $(thing)剣$() の自衛力はさほど高くありません。",
-      "title": "Swords"
+      "text": "$(thing)剣$()は最も基本的な武器ですが、最も汎用性の高い武器でもあります。$(br)そのため、最初に手にする武器種となる可能性が高いですが、$(thing)剣$()の自衛力はさほど高くありません。",
+      "title": "剣"
     },
     {
       "type": "patchouli:text",
@@ -15,13 +15,13 @@
     },
     {
       "type": "patchouli:spotlight",
-      "text": "$(thing)剣$() はゲーム内で最も基本的な武器です。",
-      "title": "A Sword",
+      "text": "$(thing)剣$()はゲーム内で最も基本的な武器です。",
+      "title": "剣",
       "item": "aoa3:bloodfury"
     },
     {
       "type": "patchouli:link",
-      "text": " $(thing)剣$() に関するさらに詳しい情報は、 $(aoa) 公式Wikiを参照してください。 $(thing)official wiki$().",
+      "text": "$(aoa)の$(thing)剣$()のさらに詳しい情報は$(thing)公式wiki$()を参照してください。",
       "title": "Read More",
       "url": "https://adventofascension.fandom.com/wiki/Swords",
       "link_text": "AoA Wiki"

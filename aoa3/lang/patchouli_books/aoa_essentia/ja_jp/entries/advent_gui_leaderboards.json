@@ -1,5 +1,5 @@
 {
-  "name": "Leaderboards Tab",
+  "name": "リーダーボードタブ",
   "category": "aoa3:advent_gui",
   "icon": "minecraft:target",
   "pages": [
@@ -7,7 +7,7 @@
       "type": "patchouli:text",
       "anchor": "leaderboards_tab",
       "text": "",
-      "title": "Leaderboards Tab"
+      "title": "リーダーボードタブ"
     }
   ],
   "sortnum": 4

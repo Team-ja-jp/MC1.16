@@ -1,12 +1,12 @@
 {
-  "name": "Description",
+  "name": "説明",
   "category": "aoa3:abyss",
   "icon": "",
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "The $(thing)Abyss$() は、不快な恐怖に満ちた、暗く血の色の世界です。",
-      "title": "Description"
+      "text": "$(thing)アビス$()は、不快な恐怖に満ちた、暗く血の色の世界です。",
+      "title": "説明"
     }
   ],
   "advancement": "aoa3:abyss/root",

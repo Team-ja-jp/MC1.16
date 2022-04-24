@@ -1,17 +1,17 @@
 {
-  "name": "Skills HUD",
+  "name": "スキルHUD",
   "category": "aoa3:interfaces",
   "icon": "aoa3:textures/gui/aoaskill/innervation.png",
   "pages": [
     {
       "type": "patchouli:text",
       "anchor": "skills_hud",
-      "text": "$(thing)スキル HUD$() 現在のスキルレベルと次レベルへの進捗を表示するインターフェイスです。$(br2)このインターフェースは無効になっていますが、オプションメニューのキーバインドを任意のキーに設定することで有効化できます。",
-      "title": "Skills HUD"
+      "text": "$(thing)スキルHUD$()は現在のスキルレベルと次レベルへの進捗を表示するインターフェイスです。$(br2)このインターフェースは無効になっていますが、オプションメニューのキーバインドを任意のキーに設定することで有効化できます。",
+      "title": "スキルHUD"
     },
     {
       "type": "patchouli:text",
-      "text": " $(l:aoa3:resources_hud)リソース HUD$(/l) と違い、このインターフェイスは画面右上から動かすことができません。$(br)ただし、 $(thing)disableHudPotionOffset$() オプションには影響されます。"
+      "text": " $(l:aoa3:resources_hud)リソースHUD$(/l)と違い、このインターフェイスは画面右上から動かすことができません。$(br)ただし、$(thing)「HUDの位置のオフセットを無効にする」$()オプションには影響されます。"
     }
   ]
 }
